@@ -24,6 +24,6 @@
 <div  style="display: inline_block"><br>
   <a href="https://api.whatsapp.com/send/?phone=5521981379296&text&type=phone_number&app_absent=0" target="_blank"><img  align="center" alt="whatsapp" height="40" width="90" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.instagram.com/p.coutinhooo" target="_blank"><img align="center" alt="instagram" height="40" width="90" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a href="www.linkedin.com/in/pb-coutinho" target="_blank"><img align="center" alt="linkedIn" height="40" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pb-coutinho" target="_blank"><img align="center" alt="linkedIn" height="40" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://patrickbaptista-portfolio.netlify.app/" target="_blank"><img align="center" alt="portfolio" height="40" width="100" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
 </div>

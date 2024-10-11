@@ -1,7 +1,7 @@
 ## Hi, there! I'm Patrick Coutinho 👋
 
 - 💻 I'm currently working as a FullStack Developer
-- 📓 I'm currently learning PWA
+- 📓 I'm currently learning Redux
 - 😀 Pronouns: He, Him
   
 <div><br>
